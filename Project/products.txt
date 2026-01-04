@@ -1,0 +1,89 @@
+15
+Lays Classic Salted
+3
+Potato
+Vegetable Oil
+Salt
+Oreo Cookies
+5
+Wheat
+Sugar
+Palm Oil
+Cocoa
+Leavening Agents
+Nutella
+5
+Sugar
+Palm Oil
+Hazelnuts
+Milk Powder
+Cocoa
+KitKat
+5
+Wheat
+Sugar
+Milk Powder
+Cocoa Butter
+Palm Oil
+Maggi Noodles
+4
+Wheat
+Palm Oil
+Salt
+Spices
+Kelloggs Corn Flakes
+4
+Corn
+Sugar
+Salt
+Vitamins
+Peanut Butter
+4
+Peanut
+Sugar
+Palm Oil
+Salt
+Coca Cola
+4
+Carbonated Water
+Sugar
+Caffeine
+Caramel Color
+Pepsi
+4
+Carbonated Water
+Sugar
+Caffeine
+Caramel Color
+Red Bull
+4
+Carbonated Water
+Taurine
+Caffeine
+Sugar
+Wheat Bread
+3
+Wheat
+Yeast
+Salt
+Rice Bread
+3
+Rice Flour
+Yeast
+Salt
+Wheat Pasta
+3
+Wheat
+Eggs
+Salt
+Corn Pasta
+3
+Corn Flour
+Eggs
+Salt
+Soy Sauce
+4
+Water
+Wheat
+Soybeans
+Salt
